@@ -1,0 +1,17 @@
+# 嘉立创EDA 缓存、临时文件
+*.bak
+*.tmp
+*.log
+cache/
+export/
+*.zip
+
+# Windows系统垃圾
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# AD 垃圾文件
+*.PcbDocPreview
+*.PrjPcbStructure
+History/
